@@ -9,6 +9,7 @@ Computer Organization notions. Programming Logic and Algorithms: Sequencing Oper
 
 **Bibliography:**
 1. DEITEL, P.J. and DEITEL, H.M. JAVA How to program. Pearson Prentice Hall, 11th edition, 2017.
+2. SEDGEWICK, R. and WAYNE, K. Introduction to Programming in Java: An Interdisciplinary Approach, 2nd edition, 2017.
 
 **Useful links:**
 1. Question and answer site for programmers: https://stackoverflow.com/
