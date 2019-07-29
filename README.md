@@ -2,7 +2,7 @@
 
 ### Computer Science Undergraduate Program
 
-**Original website (in Portuguese):** https://leticia.compscinet.org/classes/pi-2015-1-pratica/
+[**Original website (in Portuguese):**](https://leticia.compscinet.org/classes/pi-2015-1-pratica/)
 
 **Program:**
 Computer Organization notions. Programming Logic and Algorithms: Sequencing Operations, Decisions and Loops, Modularization and Data Abstraction. Arrays and Matrices Processing.
